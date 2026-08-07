@@ -1,12 +1,12 @@
 ---
+title: "\U0001F44B Hello there"
 permalink: /
-title: "👋 Hello there"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+- /about/
+- /about.html
 ---
-I'm Dr Ortis Yankey, a passionate geospatial modeller and population health researcher, currently working as a Research Fellow with the [WorldPop Research Group](https://www.worldpop.org/) at the University of Southampton, UK. My work sits at the intersection of data science, public health, and spatial analytics, leveraging machine learning, Bayesian statistics, and geospatial methods to tackle some of the most pressing global challenges.
+I'm Dr Ortis Yankey, a passionate geospatial modeller and population health researcher, currently working as a Senior Research Fellow with the [WorldPop Research Group](https://www.worldpop.org/) at the University of Southampton, UK. My work sits at the intersection of data science, public health, and spatial analytics, leveraging machine learning, Bayesian statistics, and geospatial methods to tackle some of the most pressing global challenges.
 
 I have led and contributed to high-impact projects across Africa, Latin America, and the Caribbean, which mainly focus on developing bespoke spatial statistical models to predict population count and health outcomes at small area scales for census support and epidemiological surveillance. My methodological expertise spans advanced statistical modelling, Bayesian statistics and spatial statistics
 
