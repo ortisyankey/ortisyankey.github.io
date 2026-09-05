@@ -8,6 +8,10 @@ author_profile: true
 You can find all my publications on [Google Scholar](https://scholar.google.com/citations?user=fLa56bkAAAAJ&hl=en&oi=ao)
 
 ## Journal Articles
+---
+Dotse-Gborgbortsi, W., **Yankey, O.**, Utazi, E. C., Tejedor-Garavito, N., Banke-Thomas, A., Chaudhuri, S., ... & Nilsen, K. (2026). 
+Mapping zero maternal and newborn health service utilisation across 34 African countries: a geostatistical analysis of household survey data. *VeriXiv*, 3(103), 103.
+[![Preprint](https://img.shields.io/badge/Preprint-purple)](https://verixiv.org/articles/3-103/v1?src=rss)
 
 ---
 Tatem, A. J., Boo, G., Chamberlain, H. R., Nnanatu, C. C., Darin, E., Leasure, D. R., **Yankey, O.**, ... & Lázár, A. N. (2026). 
@@ -16,7 +20,16 @@ Advances in small area population estimation in the absence of national census d
 [![Preprint](https://img.shields.io/badge/Preprint-purple)](https://eprints.soton.ac.uk/505854/)
 
 ---
+Gadiaga, A. N., Tine, M. W., Diene, A. N., Linard, C., Speybroeck, N., **Yankey, O.**, ... & Tatem, A. J. (2026). 
+Spatio-temporal modelling of COVID-19 infection and associated risk factors in Dakar, Senegal. *PLOS Global Public Health*, 6(6), e0004945.
+[![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://doi.org/10.1371/journal.pgph.0004945)
+[![Preprint](https://img.shields.io/badge/Preprint-purple)](https://www.medrxiv.org/content/10.1101/2025.07.04.25330897v1)
+---
+Pompili, L., Sorichetta, A., Economou, T., Bondarenko, M., **Yankey, O.**, & Camera, C. A. (2026). 
+Evaluating the use of a coordinate-based tensor-product for addressing spatial autocorrelation in shallow landslide susceptibility modelling. *Stochastic Environmental Research and Risk Assessment*, 40(6), 157.
+[![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://link.springer.com/article/10.1007/s00477-026-03283-2)
 
+---
 Utazi, C. E., **Yankey, O.**, Chaudhuri, S., Olowe, I. D., Danovaro-Holliday, M. C., Lazar, A. N., & Tatem, A. J. (2025). 
 Geostatistical and machine learning approaches for high-resolution mapping of vaccination coverage. *Spatial and Spatio-temporal Epidemiology*, 100744. https://doi.org/10.1016/j.sste.2025.100744
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://doi.org/10.1016/j.sste.2025.100744)
@@ -24,13 +37,11 @@ Geostatistical and machine learning approaches for high-resolution mapping of va
 [![Preprint](https://img.shields.io/badge/Preprint-purple)](https://www.preprints.org/frontend/manuscript/e20e5c231aa49ad0b4a31e9456023dc2/download_pub)
 
 ---
-
 Dotse-Gborgbortsi, W., Nilsen, K., **Yankey, O.**, Ofosu, A., Ankomah, T., Tweneboah, E., ... & Wright, J. (2025).  
 Spatio-temporal patterns of health service delivery and access to maternal, child, and outpatient healthcare in Volta region, Ghana: a repeated cross-sectional ecological study using health facility data. *Global Health Action*, 18(1), 2513861.https://www.tandfonline.com/doi/pdf/10.1080/16549716.2025.2513861 
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://www.tandfonline.com/doi/pdf/10.1080/16549716.2025.2513861)
 
 ---
-
 Nnanatu, C. C., Bonnie, A., Joseph, J., **Yankey, O.**, Cihan, D., Gadiaga, A., ... & Tatem, A. J. (2025).  
 Estimating small area population from health intervention campaign surveys and partially observed settlement data. *Nature Communications*, 16(1), 1-13. https://www.nature.com/articles/s41467-025-59862-4/  
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://www.nature.com/articles/s41467-025-59862-4)
@@ -49,7 +60,6 @@ Tackling public health data gaps through Bayesian high-resolution population est
 [![Preprint](https://img.shields.io/badge/Preprint-purple)](https://verixiv.org/articles/2-8)
 
 ---
-
 **Yankey, O.**, Utazi, C. E., Nnanatu, C. C., Gadiaga, A. N., Abbot, T., Lazar, A. N., & Tatem, A. J. (2024).  
 Disaggregating Census Data for Population Mapping Using a Bayesian Additive Regression Tree Model. *Applied Geography*, 172, 103416.  
 [https://doi.org/10.1016/j.apgeog.2024.103416](https://doi.org/10.1016/j.apgeog.2024.103416)  
@@ -57,13 +67,11 @@ Disaggregating Census Data for Population Mapping Using a Bayesian Additive Regr
 [![Preprint](https://img.shields.io/badge/Preprint-purple)](https://www.researchsquare.com/article/rs-3888112/v2)
 
 ---
-
 Buckman, T. A., Sakyi, S. A., Yeboah-Mensah, K., Antwi, M. H., Darban, I., Owusu-Brenya, L., & **Yankey, O.** (2024).  
 Demographic, Clinical Profile of Rheumatoid Arthritis Patients and Their Association with Disease Severity in Ghana. *International Journal of Rheumatology*, 2024.  
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2024/6639079)
 
 ---
-
 **Yankey, O.**, Lee, J., Gardenhire, R. & Borawski E. (2023).  
 Neighborhood Racial Segregation Predicts the Spatial Distribution of Supermarkets and Grocery Stores Better than Socioeconomic Factors in Cleveland, Ohio: a Bayesian Spatial Approach. *Journal of Racial and Ethnic Health Disparities*.  
 [https://doi.org/10.1007/s40615-023-01669-4](https://doi.org/10.1007/s40615-023-01669-4)  
@@ -97,7 +105,6 @@ Examining the effect of geographic region of residence on childhood malnutrition
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://academic.oup.com/tropej/article/66/6/598/5892369)
 
 ---
-
 Amegbor, P. M., **Yankey, O.**, Rosenberg, M. W., & Sabel, C. E. (2020).  
 Examining spatial variability in the association between male partner alcohol misuse and intimate partner violence against women in Ghana: a GWR analysis. *Journal of Interpersonal Violence*, 0886260519900299.  
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://journals.sagepub.com/doi/full/10.1177/0886260519900299)
@@ -131,12 +138,3 @@ Census-independent small area estimates of population and number of households i
 
 ---
 
-Gadiaga, A. N., Tine, M. W., Diene, A. N., Linard, C., Speybroeck, N., **Yankey, O.**, ... & Tatem, A. J. (2025).  
-Spatio-temporal modelling of COVID-19 infection and associated risk factors in Dakar, Senegal. *medRxiv*, 2025-07.  
-[![Preprint](https://img.shields.io/badge/Preprint-purple)](https://www.medrxiv.org/content/10.1101/2025.07.04.25330897v1)
-
----
-
-Lazar, A. N., Boo, G., Chamberlain, H. R., Nnanatu, C. C., Darin, E., **Yankey, O.**, ... & Tatem, A. J. (2025).  
-Advances in Small Area Population Estimation in the Absence of National Census Data.  
-[![Preprint](https://img.shields.io/badge/Preprint-purple)](https://www.preprints.org/frontend/manuscript/b9995c5f089d4b985423dc8e6614256b/download_pub)
