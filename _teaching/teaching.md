@@ -15,6 +15,8 @@ Over the years, I have taught and assisted in a variety of courses at both under
 ---
 
 ## 📚 Courses Taught as Instructor of Record  
+- 🌐 **Core Skills in GIS** – *University of Southampton, UK (Fall 2026)*  
+  *A flagship course introducing GIS fundamentals, spatial data handling, and applied geospatial analysis. Students gain both technical and analytical skills to excel in geospatial research and industry.*  
 
 - 🌐 **Core Skills in GIS** – *University of Southampton, UK (Fall 2025)*  
   *A flagship course introducing GIS fundamentals, spatial data handling, and applied geospatial analysis. Students gain both technical and analytical skills to excel in geospatial research and industry.*  
@@ -28,8 +30,8 @@ Over the years, I have taught and assisted in a variety of courses at both under
 - 🛰️ **Introduction to GIS** – *Kent State University (Fall 2020)*  
   *Hands-on training in GIS software, data visualization, and map-making through project-based learning.*  
 
-- 🔍 **Advanced GIS** – *Kent State University (Spring 2020)*  
-  *Focused on advanced techniques including spatial modeling, network analysis, and raster applications.*  
+- 🔍 **Physical Geography Lab** – *Kent State University (Spring 2020)*  
+  *Hands-on training on physical systems affecting our planet such as plate tectonic movements, temperature and rainfall.*  
 
 ---
 
