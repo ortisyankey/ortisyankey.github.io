@@ -10,6 +10,13 @@ You can find all my publications on [Google Scholar](https://scholar.google.com/
 ## Journal Articles
 
 ---
+Tatem, A. J., Boo, G., Chamberlain, H. R., Nnanatu, C. C., Darin, E., Leasure, D. R., **Yankey, O.**, ... & Lázár, A. N. (2026). 
+Advances in small area population estimation in the absence of national census data. *Proceedings of the National Academy of Sciences*, 123(35), e2413993123.
+[![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://www.pnas.org/doi/abs/10.1073/pnas.2413993123)
+[![Preprint](https://img.shields.io/badge/Preprint-purple)](https://eprints.soton.ac.uk/505854/)
+
+---
+
 Utazi, C. E., **Yankey, O.**, Chaudhuri, S., Olowe, I. D., Danovaro-Holliday, M. C., Lazar, A. N., & Tatem, A. J. (2025). 
 Geostatistical and machine learning approaches for high-resolution mapping of vaccination coverage. *Spatial and Spatio-temporal Epidemiology*, 100744. https://doi.org/10.1016/j.sste.2025.100744
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://doi.org/10.1016/j.sste.2025.100744)
