@@ -24,6 +24,7 @@ Gadiaga, A. N., Tine, M. W., Diene, A. N., Linard, C., Speybroeck, N., **Yankey,
 Spatio-temporal modelling of COVID-19 infection and associated risk factors in Dakar, Senegal. *PLOS Global Public Health*, 6(6), e0004945.
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://doi.org/10.1371/journal.pgph.0004945)
 [![Preprint](https://img.shields.io/badge/Preprint-purple)](https://www.medrxiv.org/content/10.1101/2025.07.04.25330897v1)
+
 ---
 Pompili, L., Sorichetta, A., Economou, T., Bondarenko, M., **Yankey, O.**, & Camera, C. A. (2026). 
 Evaluating the use of a coordinate-based tensor-product for addressing spatial autocorrelation in shallow landslide susceptibility modelling. *Stochastic Environmental Research and Risk Assessment*, 40(6), 157.
